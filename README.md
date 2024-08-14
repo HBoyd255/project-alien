@@ -7,6 +7,8 @@ For this project, as part of the
 module at the University of York, the task was to design and build a robot that
 could autonomously navigate a maze.
 
+As I work on this project I will add more to this repository.
+
 At the moment, all the code and design files are split up into different
 repositories.
 
